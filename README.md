@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/" height="40" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
@@ -49,5 +49,6 @@
 
 
 ###
+
 
 
