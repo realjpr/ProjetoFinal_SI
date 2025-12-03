@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpha</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="shortcut icon" href="./images/logo/favicon/logoSimplificadoICO.ico" type="image/x-icon">
+</head>
+<body>
+    <main class="font-(family-name:--fontePrincipal)">
+        <section class="flex h-dvh w-full">
+
+                <div class="hidden lg:w-full lg:inline-block">
+                    <div class='parent'>
+                       <div class="magicpattern"></div>
+                    </div>
+                </div>
+
+            
+                <div class="w-full flex flex-col items-center justify-center">
+
+                    <div class="md:shadow-[0px_4px_25px_0px_#0000000D] md:px-10 md:py-18 rounded-xl">
+            
+                    <form id="loginForm" class="md:w-96 w-80 flex flex-col items-center justify-center" action="#" method="post">
+
+                        <img src="./images/logo/logoPNG.png" alt="Logo da empresa" class="w-70">
+                        <p class="text-sm text-gray-500/90 mt-3 mb-6">Faça seu login!</p>
+            
+                        <div class="flex items-center w-full bg-transparent border border-gray-300/60 h-12 rounded-full overflow-hidden pl-6 gap-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#6B7280" viewBox="0 0 256 256"><path d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"></path></svg>
+
+                            <!-- Input do e-mail -->
+                            <input id="inputEmail" type="email" placeholder="E-mail" class="bg-transparent text-gray-500/80 placeholder-gray-500/80 outline-none text-sm w-full h-full" required> 
+                            <!---->                
+                        </div>
+            
+                        <div class="flex items-center mt-6 w-full bg-transparent border border-gray-300/60 h-12 rounded-full overflow-hidden pl-6 gap-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#6B7280" viewBox="0 0 256 256"><path d="M208,80H176V56a48,48,0,0,0-96,0V80H48A16,16,0,0,0,32,96V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V96A16,16,0,0,0,208,80ZM96,56a32,32,0,0,1,64,0V80H96ZM208,208H48V96H208V208Z"></path></svg>
+
+                            <!-- Input da senha -->
+                            <input id="inputSenha" type="password" placeholder="Senha" class="bg-transparent text-gray-500/80 placeholder-gray-500/80 outline-none text-sm w-full h-full" required>
+                            <!---->  
+                        </div>
+            
+                        <button type="submit" id="loginButton" class="mt-8 w-full h-11 rounded-full text-white bg-(--corPrincipal) hover:opacity-90 transition-opacity cursor-pointer">
+                            Login
+                        </button>
+                    </form>
+
+                    </div>
+                </div>
+
+        </section>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
