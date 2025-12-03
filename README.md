@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933](https://cdn-icons-png.flaticon.com/512/5968/5968332.png" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933](https://cdn-icons-png.flaticon.com/512/5968/5968332.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_0U2EPUxLIey1E4fnCUD5ygf4fwMFTOEjg&s" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
@@ -49,3 +49,4 @@
 
 
 ###
+
