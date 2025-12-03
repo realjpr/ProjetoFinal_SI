@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933](https://cdn-icons-png.flaticon.com/512/5968/5968332.png" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
@@ -46,5 +46,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2503a4"  />
 </div>
+
 
 ###
