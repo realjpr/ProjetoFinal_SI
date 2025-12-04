@@ -148,7 +148,7 @@ INSERT INTO fornecedores (for_nome, for_cidade, for_cnpj) VALUES
 ('Soluções em Energia e Baterias', 'Natal', '91.234.567/0001-49');
 
 INSERT INTO pedidos (pro_id, for_id, ped_data, ped_quantidade) VALUES
-(100, 13, '2025-10-16', 27),
+(10, 13, '2025-10-16', 27),
 (73, 4, '2025-08-19', 24),
 (45, 5, '2025-08-17', 10),
 (74, 20, '2025-09-26', 11),
@@ -175,7 +175,7 @@ INSERT INTO pedidos (pro_id, for_id, ped_data, ped_quantidade) VALUES
 (67, 19, '2025-07-15', 1),
 (90, 11, '2025-05-28', 27),
 (88, 2, '2025-06-27', 23),
-(100, 19, '2025-11-09', 44),
+(10, 19, '2025-11-09', 44),
 (41, 9, '2025-08-08', 7),
 (8, 6, '2025-10-25', 48),
 (52, 2, '2025-09-05', 24),
